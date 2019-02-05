@@ -1,6 +1,6 @@
 <?php
 
-namespace Orphans\GitDeploy;
+namespace Alexss\GitDeploy;
 
 use Illuminate\Support\ServiceProvider;
 
