@@ -21,7 +21,7 @@ Add the following to your `composer.json` file then update your composer as norm
 
 Or run:
 
-    composer require orphans/git-deploy-laravel
+    composer require alapaev/git-deploy-laravel
 
 ### Step 2
 
