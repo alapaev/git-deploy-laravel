@@ -1,6 +1,6 @@
 <?php
 
-namespace Orphans\GitDeploy\Http;
+namespace Alexss\GitDeploy\Http;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
@@ -13,7 +13,7 @@ use Artisan;
 use Log;
 use Event;
 
-use Orphans\GitDeploy\Events\GitDeployed;
+use Alexss\GitDeploy\Events\GitDeployed;
 
 class GitDeployController extends Controller
 {
