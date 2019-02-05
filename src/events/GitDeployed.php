@@ -1,6 +1,6 @@
 <?php
 
-namespace Orphans\GitDeploy\Events;
+namespace Alexss\GitDeploy\Events;
 
 use Illuminate\Queue\SerializesModels;
 
