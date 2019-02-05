@@ -1,10 +1,10 @@
 {
-    "name": "orphans/git-deploy-laravel",
+    "name": "alapaev/laravel-deployment",
     "description": "Helps automate the deployment of projects onto servers by utilising Git web hooks.",
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Orphans\\GitDeploy\\": "src"
+            "Alexss\\GitDeploy\\": "src"
         }
     },
     "require": {
@@ -15,7 +15,7 @@
     "extra": {
         "laravel": {
             "providers": [
-                "Orphans\\GitDeploy\\GitDeployServiceProvider"
+                "Alexss\\GitDeploy\\GitDeployServiceProvider"
             ]
         }
     }
