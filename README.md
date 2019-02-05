@@ -15,7 +15,7 @@ Add the following to your `composer.json` file then update your composer as norm
 
     {
         "require" : {
-            "orphans/git-deploy-laravel" : "dev-master"
+            "alapaev/git-deploy-laravel" : "dev-master"
         }
     }
 
